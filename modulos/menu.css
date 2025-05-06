@@ -13,6 +13,10 @@ nav a {
     text-decoration: none;
     color: black;
     font-size: 1.2rem;
+
+    display: flex;
+    justify-content: space-between;
+    transition: 1s;
 }
 
 nav a:hover {
